@@ -26,9 +26,9 @@ The main objective of this project is to predict the median house value in Calif
 
 ## Conclusion
 
-The combination of data normalization, KMeans clustering, and RandomForest Regressor has proven to be the most successful model in predicting housing prices in California. After evaluating various regression models, the selected model achieved a Mean Absolute Error (MAE) of 28063.
+The combination of data normalization, KMeans clustering, and RandomForest Regressor has proven to be the most successful model in predicting housing prices in California. After evaluating various regression models, the selected model achieved a Mean Absolute Error (MAE) of 27891.
 
-**Mean Absolute Error (MAE)**: MAE is a metric used to measure the performance of a regression model. It calculates the average absolute difference between the predicted values and the actual target values. In the context of this project, the MAE of 28063 means that, on average, the model's predictions deviate by approximately $28,063 from the actual median house prices in California.
+**Mean Absolute Error (MAE)**: MAE is a metric used to measure the performance of a regression model. It calculates the average absolute difference between the predicted values and the actual target values. In the context of this project, the MAE of 27891 means that, on average, the model's predictions deviate by approximately $27,891 from the actual median house prices in California.
 
 This model could be utilized to provide valuable insights to homeowners, real estate agents, and policymakers to make informed decisions about housing prices in different regions of California.
 
